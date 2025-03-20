@@ -6,26 +6,26 @@
  //     console.log(dogName + " says arf arf ")
  // }
  
- // dogName = "AERON";
+ // dogName = "mark";
  // dogWeight = 13;
  // if (dogWeight >20){
- //     console.log(dogName + " says WOOF AERON ")
+ //     console.log(dogName + " says WOOF WOOF ")
  // } else {
  //     console.log (dogName + " says ARF ARF ")
  // }
  
- // dogName = "JAFET";
+ // dogName = "jane";
  // dogWeight = 15;
  // if (dogWeight >20){
- //     console.log(dogName + " says WOOF AERON ")
+ //     console.log(dogName + " says WOOF WOOF ")
  // } else {
  //     console.log (dogName + " says ARF ARF ")
  // }
  
- // dogName = "MANUEL";
+ // dogName = "ana";
  // dogWeight = 19;
  // if (dogWeight >20){
- //     console.log(dogName + " says WOOF AERON ")
+ //     console.log(dogName + " says WOOF WOOF ")
  // } else {
  //     console.log (dogName + " says ARF arf arf ")
  // }
@@ -39,6 +39,6 @@
 }
 
 bark("rover", 23);
-bark("AERON", 13);
-bark("JAFET", 15);
-bark("MANUEL", 19);
+bark("mark", 13);
+bark("jane", 15);
+bark("ana", 19);

@@ -20,7 +20,7 @@ while (isSunk == false){
     guess = prompt("Ready!, Aim!, Fire! (Enter number 0-6) ")
 
     if (guess == null) {
-        alert("thank u for playing botchog 🫰 ");
+        alert("thank u for playing");
         break;
     }else{
 
