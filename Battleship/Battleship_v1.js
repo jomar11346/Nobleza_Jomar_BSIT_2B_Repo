@@ -8,6 +8,7 @@ var guess;
 var hits  = 0;
 var guesses = 0;
 
+
 var isSUNK = false;
 
 // Game Logic
