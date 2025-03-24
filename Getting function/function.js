@@ -6,7 +6,7 @@
  //     console.log(dogName + " says arf arf ")
  // }
  
- // dogName = "mark";
+ // dogName = "roger";
  // dogWeight = 13;
  // if (dogWeight >20){
  //     console.log(dogName + " says WOOF WOOF ")
@@ -14,7 +14,7 @@
  //     console.log (dogName + " says ARF ARF ")
  // }
  
- // dogName = "jane";
+ // dogName = "brix";
  // dogWeight = 15;
  // if (dogWeight >20){
  //     console.log(dogName + " says WOOF WOOF ")
@@ -22,7 +22,7 @@
  //     console.log (dogName + " says ARF ARF ")
  // }
  
- // dogName = "ana";
+ // dogName = "borg";
  // dogWeight = 19;
  // if (dogWeight >20){
  //     console.log(dogName + " says WOOF WOOF ")
@@ -39,6 +39,6 @@
 }
 
 bark("rover", 23);
-bark("mark", 13);
-bark("jane", 15);
-bark("ana", 19);
+bark("roger", 13);
+bark("brix", 15);
+bark("borg", 19);

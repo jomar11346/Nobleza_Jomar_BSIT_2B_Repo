@@ -10,6 +10,7 @@ else {(temp < 70)
     console.log("Wear a t-shirt");
 }
 }
+
 whatShallIWear(60);
 whatShallIWear(80);
 whatShallIWear(50);
